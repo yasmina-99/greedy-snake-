@@ -30,6 +30,7 @@ When re-started, there's sometimes a slight delay before the objects are moved t
 ### Authors 
 The original project was developed by Lena Chen and Yasmina Rocio 
 
+![alt text](https://github.com/yasmina-99/greedy-snake-/blob/main/instructions.png)
 ![](https://github.com/yasmina-99/greedy-snake-/blob/main/Fa%CC%88rsta.gif)
 ![](https://github.com/yasmina-99/greedy-snake-/blob/main/andra.gif)
 
