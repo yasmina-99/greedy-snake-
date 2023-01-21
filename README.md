@@ -31,6 +31,8 @@ When re-started, there's sometimes a slight delay before the objects are moved t
 The original project was developed by Lena Chen and Yasmina Rocio 
 
 ![](https://github.com/yasmina-99/greedy-snake-/blob/main/Fa%CC%88rsta.gif)
+![](https://github.com/yasmina-99/greedy-snake-/blob/main/andra.gif)
+![](https://github.com/yasmina-99/greedy-snake-/blob/main/tredje.gif)
 
 
 
