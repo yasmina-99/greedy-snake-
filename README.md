@@ -3,7 +3,7 @@
  
  ## Project `presentation`
  
-The greedy snake is a single-player game built with the aim of entertaining \ (•◡•) / The objective is to grow the longest tail possible without self-colliding or surpassing the screen limits.
+The greedy snake is a single-player game built with the aim of entertaining \ (•◡•) / The main objective is to grow the longest tail possible without self-colliding or surpassing the screen limits.
 Python 3.11 version 
 
 ### Description and controls
